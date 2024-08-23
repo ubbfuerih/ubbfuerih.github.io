@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ubbfuerih.github.io/sitemap/sitemap.txt
